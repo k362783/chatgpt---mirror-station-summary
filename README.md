@@ -58,6 +58,7 @@
 - http://huangkz.chat - 暂时无法访问(2023/05/22)
 - https://ai.zhangsan.cloud/ - 暂时无法访问(2023/05/22)
 - https://chatgptmirror.com/ - 暂时无法访问(2023/05/25)
+- https://chat.wuguokai.cn/ (新增免费)
 
 
 ### 登录后可以免费使用的：
